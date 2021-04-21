@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1 - Contagem Repetida de números" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2 - Vogais Extraterrestres" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 - Melhor amigo do Pablo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 - Entrevista Embaraçosa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5 - Conjuntos Bons ou Ruins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6 - Produto e divisão" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
